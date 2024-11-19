@@ -11,7 +11,7 @@ public interface Seleniuminterface {
 
     /**
      * Clicks on the element defined by the given locator.
-     * 
+     * @author Jayakumar
      * @param locator The locator of the element to click.
      */
     void clickElement(By locator);

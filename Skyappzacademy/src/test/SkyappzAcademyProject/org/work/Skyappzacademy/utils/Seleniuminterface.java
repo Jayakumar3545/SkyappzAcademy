@@ -19,6 +19,7 @@ import java.io.IOException;
  * 
  * <p>
  * Example usage:
+ * @author Jayakumar
  * <pre>
  * public class WebDriverActions implements Seleniuminterface {
  *     // Implement the methods from the interface
