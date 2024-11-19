@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-18T20:37:34 IST" name="Default suite" finished-at="2024-11-18T20:43:29 IST" duration-ms="355711">
+    <groups>
+    </groups>
+    <test started-at="2024-11-18T20:37:34 IST" name="Default test" finished-at="2024-11-18T20:43:29 IST" duration-ms="355711">
+      <class name="org.SkyappzDigitalmarketing.utils.SkyappzDigitalmarketing">
+        <test-method is-config="true" signature="setupWebDriver()[pri:0, instance:org.SkyappzDigitalmarketing.utils.SkyappzDigitalmarketing@3e27ba32]" started-at="2024-11-18T20:37:34 IST" name="setupWebDriver" finished-at="2024-11-18T20:37:34 IST" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupWebDriver -->
+        <test-method signature="runFirefoxTests()[pri:1, instance:org.SkyappzDigitalmarketing.utils.SkyappzDigitalmarketing@3e27ba32]" started-at="2024-11-18T20:37:34 IST" name="runFirefoxTests" finished-at="2024-11-18T20:39:41 IST" duration-ms="126961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runFirefoxTests -->
+        <test-method signature="runChromeTests()[pri:2, instance:org.SkyappzDigitalmarketing.utils.SkyappzDigitalmarketing@3e27ba32]" started-at="2024-11-18T20:39:41 IST" name="runChromeTests" finished-at="2024-11-18T20:41:23 IST" duration-ms="101511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runChromeTests -->
+        <test-method signature="runEdgeTests()[pri:3, instance:org.SkyappzDigitalmarketing.utils.SkyappzDigitalmarketing@3e27ba32]" started-at="2024-11-18T20:41:23 IST" name="runEdgeTests" finished-at="2024-11-18T20:43:29 IST" duration-ms="125910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runEdgeTests -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.SkyappzDigitalmarketing.utils.SkyappzDigitalmarketing@3e27ba32]" started-at="2024-11-18T20:43:29 IST" name="tearDown" finished-at="2024-11-18T20:43:29 IST" duration-ms="891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.SkyappzDigitalmarketing.utils.SkyappzDigitalmarketing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
